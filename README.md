@@ -1,7 +1,7 @@
 # Tracing-Arabic-Words
 Code and files for my experiment to identify Arabic words in Persian Poetry.
 
-
+<img src="https://files.virgool.io/upload/users/7169/posts/rlaniipdqhbw/iambuvvrtr9w.png" width="200" height="400" />
 
 ![](https://files.virgool.io/upload/users/7169/posts/rlaniipdqhbw/iambuvvrtr9w.png=250x)
 
